@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Vu Vo(Võ Thành Vũ)
+### Hi there 👋, I'm Vu Vo (Võ Thành Vũ).
 
 
-## I'm a software engineer
+## I'm a software engineer, fall in love open source.
+
 - I’m currently working on blockchain technology.
-- I'm love open source.
 - I’m currently learning decentralized systems, cryptography, security, and front-end stuff. 
 - 2022 goals: study to play Stylophone, travel, and improve me to become a senior blockchain developer.
 
