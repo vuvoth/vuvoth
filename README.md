@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vu Vo (Võ Thành Vũ).
 
 
-## I'm a software engineer, fall in love open source.
+## I'm a software engineer.
 
 - I’m currently working on blockchain technology.
 - I’m currently learning decentralized systems, cryptography, security, and front-end stuff. 
