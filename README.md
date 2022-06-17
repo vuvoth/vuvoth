@@ -13,4 +13,3 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/vuvoth
-[facebook]: https://www.facebook.com/vulananh28
