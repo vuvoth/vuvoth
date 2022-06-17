@@ -9,7 +9,6 @@
 
 ### Connect with me:
 [<img align="left" alt="Vu Vo | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Lan Anh Vu | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/vuvoth
