@@ -12,5 +12,5 @@
 [<img align="left" alt="Lan Anh Vu | Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/vu-vo-20ba88178/
+[linkedin]: https://www.linkedin.com/in/vuvoth
 [facebook]: https://www.facebook.com/vulananh28
