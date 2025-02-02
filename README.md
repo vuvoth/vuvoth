@@ -4,7 +4,7 @@
 ## I'm a R&D Engineer.
 
 - I’m currently working on blockchain technology.
-- I love open source, sleep and milk coffee and cook for my family.
+- I love open source, sleep, Milk coffee, and cooking for my family.
  
 ### Connect with me:
 [<img align="left" alt="Vu Vo | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
