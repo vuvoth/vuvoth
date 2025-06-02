@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vu Vo (Võ Thành Vũ).
+### Hi there 👋, I'm Vu Vo.
 
 
 ## I'm a R&D Engineer.
